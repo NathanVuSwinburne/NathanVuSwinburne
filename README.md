@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Swinburne Univer
 
 ### About Me
 - 🔭 I’m currently working on a **deep learning** project focused on computer vision.
-- 🌱 I’m diving deep into **data science** and **data engineering**.
+- 🌱 I’m diving deep into **data science** and **Artificial Intelligence**.
 - 👯 I’m open to collaborations on **data-related projects** and **machine learning models**.
 - 🤔 I’m looking for resources and guidance to enhance my **data engineering** skills.
 - 💬 Feel free to ask me about my projects, or any tech topic I might be able to help with!
