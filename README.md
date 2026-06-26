@@ -1,106 +1,154 @@
-<h1 align="center">Hi, I'm Nathan Vu</h1>
-<h3 align="center">AI / ML Engineer · Final-year CS student at Swinburne · ex-ML Intern @ Silverpond</h3>
+<!-- ===== ANIMATED HEADER ===== -->
+<a href="https://github.com/NathanVuSwinburne">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Vu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20building%20systems%20that%20actually%20ship&descAlignY=58&descSize=18" alt="header"/>
+</a>
+
+<!-- ===== TYPING ANIMATION ===== -->
+<p align="center">
+  <a href="https://github.com/NathanVuSwinburne">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E9FEF&center=true&vCenter=true&width=720&lines=LLM+agents+%C2%B7+predictive+ML+%C2%B7+computer+vision;ex-ML+Engineer+Intern+%40+Silverpond;Final-year+CS+(Data+Science+%26+AI)+%40+Swinburne;Open+to+junior+AI+%2F+ML+Engineer+%26+Data+Scientist+roles" alt="typing-intro"/>
+  </a>
+</p>
+
+<!-- ===== STATUS BADGES ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Engineer%20roles-2ea44f?style=for-the-badge" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Based%20in-Melbourne%2C%20AU-1f6feb?style=for-the-badge" alt="location"/>
+  <img src="https://komarev.com/ghpvc/?username=NathanVuSwinburne&style=for-the-badge&color=6e9fef&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
 <p align="center">
-  I build applied AI systems — LLM agents, predictive ML pipelines, and computer vision models.<br/>
-  Based in Melbourne, Australia. Open to junior AI Engineer, ML Engineer, and Data Scientist roles.
+  <a href="https://www.linkedin.com/in/nathanvu-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:nathanvutexting@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/NathanVuSwinburne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
 ---
 
-- 🔭 Currently building a **predictive maintenance digital twin** with multi-agent AI, FAISS RAG, and XGBoost failure classification
-- 🌱 Deepening skills in **MLOps** — model serving, containerisation, and inference APIs
-- 💼 Previously **ML Engineer Intern at [Silverpond](https://silverpond.com.au)** — LLM-guided annotation workflows and computer vision for industrial drone imagery
-- 📫 Reach me at **nathanvutexting@gmail.com**
+### 👋 About me
+
+I build **applied AI systems that run in production** — not notebooks that prove a point. My focus is LLM agents, predictive ML pipelines, and computer vision, with the infrastructure to actually serve them.
+
+- 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** — shipped client-facing CV + LLM pipelines for transmission-tower inspection (Energy Queensland). Built a ResNet18 conductor-material classifier (**~95% accuracy, 0.95 macro F1**) and LLM-guided SAM3 annotation workflows that **cut manual labelling effort 50–70%**; deployed on **AWS Bedrock** for data sovereignty.
+- 👥 **Led a 6-person capstone team** building a predictive-maintenance digital twin — diagnosed a failing time-series model (high recall / low precision) and drove it to a **92% F1**.
+- 🎓 **Swinburne CS (Data Science & AI)**, graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
+- 🌱 Currently going deeper on **MLOps** — model serving, containerisation, and inference APIs.
+- 📫 **nathanvutexting@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me</h3>
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nathanvu-ds" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Agentic AI / LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS%20%2F%20RAG-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Backend / MLOps / Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Frontend / Data Viz**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🧠 [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
+No-code platform — engineers query machine health in natural language and run what-if simulations. **Led a 6-person team.**
+
+`FastAPI` · `LangGraph` · `OpenAI Agents SDK` · `FAISS` · `XGBoost` · `Docker`
+
+![F1](https://img.shields.io/badge/Failure%20F1-92%25-2ea44f?style=flat-square)
+![Multi-agent](https://img.shields.io/badge/Multi--agent-RAG%20%2B%20SQL-6e9fef?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
+
+#### 🚦 [Traffic Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
+Deep-learning forecasting on real SCATS data fused with A* / UCS routing. **Live on AWS EC2.**
+
+`TensorFlow` · `CNN-BiGRU` · `FastAPI` · `Next.js` · `AWS`
+
+![R2](https://img.shields.io/badge/R%C2%B2-0.962-2ea44f?style=flat-square)
+![Deployed](https://img.shields.io/badge/AWS-Live-FF9900?style=flat-square)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
+YOLOv8 detection + segmentation on 572 drone images for automated tower inspection.
+
+`YOLOv8` · `Python` · `Roboflow` · `Streamlit`
+
+![mAP](https://img.shields.io/badge/mAP50-0.989-2ea44f?style=flat-square)
+![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
+
+#### 🛡️ [LLM Multi-Agent Cybersecurity](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity)
+LangGraph agents + hybrid RAG mapping security logs to MITRE ATT&CK techniques.
+
+`LangGraph` · `ChromaDB` · `BM25` · `Streamlit`
+
+![Eval](https://img.shields.io/badge/Effectiveness-61--68%25-6e9fef?style=flat-square)
+![Retrieval](https://img.shields.io/badge/Hybrid-RAG-412991?style=flat-square)
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NathanVuSwinburne&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6e9fef&icon_color=6e9fef&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanVuSwinburne&layout=compact&langs_count=8&hide_border=true&title_color=6e9fef&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
 </p>
 
----
-
-<h3 align="left">Languages and Tools</h3>
-
-<p align="left">
-
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- ML / AI -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="xgboost" width="40" height="40"/>
-  </a>
-
-  <!-- Computer Vision -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-
-  <!-- Backend / Infra -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NathanVuSwinburne&hide_border=true&background=0d1117&stroke=6e9fef&ring=6e9fef&fire=ff9900&currStreakLabel=6e9fef&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanVuSwinburne&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=6e9fef" alt="trophies"/>
+</p>
 
-<h3 align="left">Featured Projects</h3>
-
-| Project | Stack | Highlight |
-|---|---|---|
-| [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator) | FastAPI · LangGraph · OpenAI Agents SDK · FAISS · XGBoost · LSTM · PostgreSQL · Docker · Next.js | 92% F1 failure classification · multi-agent AI with RAG |
-| [Traffic Congestion Prediction & Routing](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area) | TensorFlow · CNN-BiGRU · FastAPI · Next.js · AWS EC2 | R² = 0.962 · live AWS deployment |
-| [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering) | YOLOv8 · Python · Roboflow · Streamlit | mAP50 = 0.989 on drone inspection imagery |
-| [LLM Multi-Agent Cybersecurity](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity) | LangGraph · ChromaDB · BM25 · Streamlit | Hybrid RAG mapped to MITRE ATT&CK |
+<!-- ===== FOOTER WAVE ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
