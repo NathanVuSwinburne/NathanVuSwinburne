@@ -1,87 +1,106 @@
-# Nathan Vu
+<h1 align="center">Hi, I'm Nathan Vu</h1>
+<h3 align="center">AI / ML Engineer · Final-year CS student at Swinburne · ex-ML Intern @ Silverpond</h3>
 
-ML Engineer and Data Scientist based in Melbourne, Australia. Final-year Computer Science student (Data Science & AI) at Swinburne University of Technology, graduating November 2026.
-
-I build applied AI systems — production inference pipelines, agentic workflows, computer vision, and data engineering tooling. I care about systems that actually run, not just notebooks that demonstrate a point.
-
-Previously ML Engineer Intern at [Silverpond](https://silverpond.com.au), working on LLM-guided annotation workflows and computer vision pipelines for industrial drone imagery.
-
----
-
-## What I build
-
-- **ML inference services** — FastAPI + Docker + PostgreSQL, trained models served behind versioned REST endpoints
-- **Agentic AI systems** — LangGraph and OpenAI Agents SDK, multi-agent pipelines with tool use, RAG, and SQL sub-agents
-- **Computer vision pipelines** — YOLOv8 detection/segmentation, ResNet classifiers, automated annotation workflows with SAM
-- **Data engineering** — ETL pipelines, time-series preprocessing, feature engineering on real-world sensor and traffic datasets
-- **Full-stack ML products** — Next.js dashboards wired to ML backends, end-to-end from data to user interface
+<p align="center">
+  I build applied AI systems — LLM agents, predictive ML pipelines, and computer vision models.<br/>
+  Based in Melbourne, Australia. Open to junior AI Engineer, ML Engineer, and Data Scientist roles.
+</p>
 
 ---
 
-## Featured Projects
-
-### [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-simulator)
-No-code predictive maintenance platform for industrial machinery. Engineers query machine health in natural language, run what-if simulations, and receive AI-generated maintenance recommendations — no SQL or code required.
-
-Stack: FastAPI · PostgreSQL · OpenAI Agents SDK · LangGraph · FAISS RAG · XGBoost · LSTM · Next.js · Docker Compose
-
-Achieved 92% F1 on failure classification. Supervisor agent orchestrates a SQL sub-agent, ML classifier, and simulation engine with full trace logging.
+- 🔭 Currently building a **predictive maintenance digital twin** with multi-agent AI, FAISS RAG, and XGBoost failure classification
+- 🌱 Deepening skills in **MLOps** — model serving, containerisation, and inference APIs
+- 💼 Previously **ML Engineer Intern at [Silverpond](https://silverpond.com.au)** — LLM-guided annotation workflows and computer vision for industrial drone imagery
+- 📫 Reach me at **nathanvutexting@gmail.com**
 
 ---
 
-### [Traffic Congestion Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance)
-Deep learning forecasting on real-world SCATS traffic data from Melbourne's Boroondara area, integrated with A*, UCS, and greedy-best-first routing. Deployed on AWS EC2 with an interactive map interface.
+<h3 align="left">Connect with me</h3>
 
-Stack: LSTM · GRU · CNN-BiGRU · TensorFlow · Next.js · Streamlit · AWS EC2
-
-R² = 0.962 across forecasting models.
-
----
-
-### [Structural Defect Detection — Telecommunications Towers](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-YOLOv8 detection and segmentation pipeline trained on 572 high-resolution drone images for automated tower inspection. Live Streamlit demo available.
-
-Stack: YOLOv8 · Python · Roboflow · Streamlit
-
-Segmentation: Precision 0.966 · Recall 0.947 · mAP50 0.989
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathanvu-ds" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-### [LLM Multi-Agent Cybersecurity System](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity)
-LangGraph multi-agent pipeline with hybrid ChromaDB + BM25 retrieval to map security logs to MITRE ATT&CK techniques. Evaluated on 86 CTI Bench and Mordor logs.
+<h3 align="left">Languages and Tools</h3>
 
-Stack: LangGraph · ChromaDB · BM25 · Streamlit · Python
+<p align="left">
 
-61–68% effectiveness across evaluation sets.
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <!-- ML / AI -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="xgboost" width="40" height="40"/>
+  </a>
+
+  <!-- Computer Vision -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+
+  <!-- Backend / Infra -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+
+</p>
 
 ---
 
-## Tech Stack
+<h3 align="left">Featured Projects</h3>
 
-**Languages** — Python, TypeScript, SQL, JavaScript
-
-**ML / AI** — PyTorch, TensorFlow, scikit-learn, XGBoost, YOLOv8, LSTM, GRU, CNN-BiGRU, ResNet
-
-**Agentic AI** — LangGraph, OpenAI Agents SDK, FAISS, ChromaDB, BM25, RAG, multi-agent systems
-
-**MLOps / Infra** — FastAPI, Docker, Docker Compose, AWS EC2, AWS Bedrock, PostgreSQL, SQLAlchemy
-
-**Data** — pandas, NumPy, Power BI, Tableau, Power Query, DAX
-
-**Evaluation** — F1, precision, recall, mAP, R², RMSE, ROC-AUC, macro F1
-
----
-
-## Currently focused on
-
-- MLOps patterns: model serving, containerisation, inference APIs
-- Agentic AI systems with structured tool use and observability
-- Computer vision for industrial inspection workflows
-- AWS cloud infrastructure for ML workloads
-
----
-
-## Links
-
-- LinkedIn: [linkedin.com/in/nathanvu-ds](https://www.linkedin.com/in/nathanvu-ds)
-- Email: nathanvutexting@gmail.com
+| Project | Stack | Highlight |
+|---|---|---|
+| [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator) | FastAPI · LangGraph · OpenAI Agents SDK · FAISS · XGBoost · LSTM · PostgreSQL · Docker · Next.js | 92% F1 failure classification · multi-agent AI with RAG |
+| [Traffic Congestion Prediction & Routing](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area) | TensorFlow · CNN-BiGRU · FastAPI · Next.js · AWS EC2 | R² = 0.962 · live AWS deployment |
+| [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering) | YOLOv8 · Python · Roboflow · Streamlit | mAP50 = 0.989 on drone inspection imagery |
+| [LLM Multi-Agent Cybersecurity](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity) | LangGraph · ChromaDB · BM25 · Streamlit | Hybrid RAG mapped to MITRE ATT&CK |
