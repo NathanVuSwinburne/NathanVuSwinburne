@@ -183,9 +183,10 @@ Power BI & Tableau dashboards turning raw HR, sales, and procurement data into e
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanVuSwinburne&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=6e9fef" alt="trophies"/>
+  <img src="https://img.shields.io/badge/Focus-LLM%20Agents%20%2B%20MLOps-6e9fef?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Projects-Production--minded%20AI-2ea44f?style=for-the-badge" alt="projects"/>
+  <img src="https://img.shields.io/badge/Strength-CV%20%2B%20Time--Series-ff9900?style=for-the-badge" alt="strength"/>
 </p>
-
 ---
 
 ### 🐍 Contribution Activity
