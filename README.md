@@ -27,19 +27,34 @@
 
 ### 👋 About me
 
-I build **applied AI systems that run in production** — not notebooks that prove a point. My focus is LLM agents, predictive ML pipelines, computer vision, and **data science** — turning messy real-world data into models and decisions, with the infrastructure to actually serve them.
+I build **applied AI systems that run in production**, not notebooks that only prove a point.
 
-- 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** — shipped client-facing CV + LLM pipelines for transmission-tower inspection (Energy Queensland). Built a ResNet18 conductor-material classifier (**~95% accuracy, 0.95 macro F1**) and LLM-guided SAM3 annotation workflows that **cut manual labelling effort 50–70%**; deployed on **AWS Bedrock** for data sovereignty.
-- 👥 **Led a 6-person capstone team** building a predictive-maintenance digital twin — diagnosed a failing time-series model (high recall / low precision) and drove it to a **92% F1**.
-- 🎓 **Swinburne CS (Data Science & AI)**, graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
-- 🌱 Currently going deeper on **MLOps** — model serving, containerisation, and inference APIs.
-- 📫 **nathanvutexting@gmail.com**
+I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders. I now bring that same communication and problem-solving mindset into **ML engineering, AI engineering, AI development, and data science**.
+
+My main interests are **computer vision, agentic AI, training machine learning models, and data analytics**. I enjoy turning real-world data into useful models, connecting those models into applications, and building systems that people can actually use.
+
+- 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)**  
+  Shipped client-facing computer vision and agentic AI pipelines for transmission-tower inspection work with Energy Queensland. Built a ResNet18 conductor-material classifier (89.4% accuracy, 89.5% weighted F1 on a 104-sample test set) and developed an LLM-controlled SAM3 segmentation workflow, where the LLM reviewed tower images, chose object prompts and confidence thresholds, and invoked SAM3 as a segmentation tool to produce annotation masks. The workflow reduced manual labelling effort by 50–70% and used Claude Haiku via AWS Bedrock for data-sovereign LLM access.
+  > 💬 Supervisor feedback and internship highlights are available on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/).
+
+- 📊 **Data analytics foundation**  
+  Built experience in data cleaning, dashboarding, stakeholder communication, and translating messy real-world data into business decisions. I now apply that background to ML and AI systems, especially when explaining model behaviour, evaluation results, and trade-offs to different audiences.
+
+- 👥 **Led a 6-person capstone team**  
+  Built a predictive-maintenance digital twin where users can query machine health in natural language and run what-if simulations. Diagnosed a failing time-series model with high recall and low precision, then helped drive the system toward a **92% F1** result.
+
+- 🎓 **Bachelor of Computer Science, Data Science & AI @ Swinburne University of Technology**  
+  Graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
+
+- 🌱 Currently going deeper on AWS, MLOps, model serving, system design, software engineering fundamentals, inference APIs, and production AI systems - **the engineering skills that stay valuable even as AI makes coding faster**.
+
+- 📫 **nathanvu.ds@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-> 💡 **Each badge links to a project where I actually used it** — click through.
+> 💡 **Each badge links to a project where I actually used it** - click through.
 
 **Languages**
 
@@ -183,9 +198,9 @@ Power BI & Tableau dashboards turning raw HR, sales, and procurement data into e
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLM%20Agents%20%2B%20MLOps-6e9fef?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Projects-Production--minded%20AI-2ea44f?style=for-the-badge" alt="projects"/>
-  <img src="https://img.shields.io/badge/Strength-CV%20%2B%20Time--Series-ff9900?style=for-the-badge" alt="strength"/>
+  <img src="https://img.shields.io/badge/From-Data%20Analytics%20%26%20Communication-6e9fef?style=for-the-badge" alt="data analytics and communication"/>
+  <img src="https://img.shields.io/badge/To-ML%20Engineering%20%26%20AI%20Development-2ea44f?style=for-the-badge" alt="ml engineering and ai development"/>
+  <img src="https://img.shields.io/badge/Focused%20On-CV%20%7C%20Agentic%20AI%20%7C%20ML%20Training-ff9900?style=for-the-badge" alt="computer vision agentic ai ml training"/>
 </p>
 ---
 
