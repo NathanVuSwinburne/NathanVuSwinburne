@@ -114,7 +114,7 @@ My main interests are **computer vision, agentic AI, training machine learning m
     <td width="50%" valign="top">
 
 #### 🧠 [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo)
-No-code platform — engineers query machine health in natural language and run what-if simulations. **Led a 6-person team.**
+No-code platform - engineers query machine health in natural language and run what-if simulations. **Led a 6-person team.**
 
 `FastAPI` · `LangGraph` · `OpenAI Agents SDK` · `FAISS` · `XGBoost` · `Docker`
 
@@ -172,8 +172,8 @@ Power BI & Tableau dashboards turning raw HR, sales, and procurement data into e
 </td>
     <td width="50%" valign="top">
 
-#### ⚡ [SolarCycle AI — Watt The Hack](https://github.com/NathanVuSwinburne/Watt-The-Hack-Hackathon)
-8-hour energy-AI hackathon — built & deployed a live failure-prediction + recovery-routing product for Victorian solar infrastructure.
+#### ⚡ [SolarCycle AI @ Watt The Hack](https://github.com/NathanVuSwinburne/Watt-The-Hack-Hackathon)
+8-hour energy-AI hackathon - built & deployed a live failure-prediction + recovery-routing product for Victorian solar infrastructure.
 
 `Python` · `scikit-learn` · `Next.js` · `Leaflet`
 
