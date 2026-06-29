@@ -50,7 +50,7 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 ### ⭐ Working Experience 
 
 - 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)**  
-  Shipped client-facing computer vision and agentic AI pipelines for transmission-tower inspection work with Energy Queensland. Built a ResNet18 conductor-material classifier (89.4% accuracy, 89.5% weighted F1 on a 104-sample test set) and developed an LLM-controlled SAM3 segmentation workflow, where the LLM reviewed tower images, chose object prompts and confidence thresholds, and invoked SAM3 as a segmentation tool to produce annotation masks. The workflow reduced manual labelling effort by 50–70% and used Claude Haiku via AWS Bedrock for data-sovereign LLM access.
+  Built **agentic AI and computer vision pipelines** for transmission-tower inspection work with Energy Queensland. Developed an **LLM-controlled SAM3 segmentation workflow**, where the LLM reviewed tower images, selected object prompts and confidence thresholds, and called SAM3 as a segmentation tool to generate annotation masks. The workflow reduced manual labelling effort by **50–70%**. I also built a ResNet18 conductor-material classifier, achieving **89.4% accuracy** and **89.5% weighted F1** on a 104-sample test set, and used Claude Haiku via **AWS Bedrock** + experimented with locally hosted Gemma4 for data-sovereign LLM access.
   > 💬 Supervisor feedback and internship highlights are available on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/).
 
 - 📊 **Data analytics foundation**  
