@@ -27,11 +27,27 @@
 
 ### 👋 About me
 
-I build **applied AI systems that run in production**, not notebooks that only prove a point.
+I build **applied AI systems that run in production**, with 5 months of hands-on ML Engineer Intern experience @ Silverpond.
 
-I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders. I now bring that same communication and problem-solving mindset into **ML engineering, AI engineering, AI development, and data science**.
+My experience might sound pretty technical now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
 
-My main interests are **computer vision, agentic AI, training machine learning models, and data analytics**. I enjoy turning real-world data into useful models, connecting those models into applications, and building systems that people can actually use.
+I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders.
+
+Now, I bring that same communication and problem-solving mindset into **ML engineering, AI engineering, AI development, and data science**.
+
+### 🤔 Why me?
+
+In today’s AI world, technical skills alone are not enough.
+
+AI can already do a lot of the heavy lifting: writing code, generating ideas, analysing data, and speeding up development. But humans still need to **understand the problem, communicate with people, question the output, monitor the system, explore better solutions, and turn technology into something useful**.
+
+That is where I believe I fit well.
+
+I enjoy working across both sides: the technical side of building AI systems, and the human side of understanding what users, teams, and businesses actually need.
+
+That mix of **AI engineering, data thinking, communication, and product mindset** is what I bring.
+
+### ⭐ Working Experience 
 
 - 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)**  
   Shipped client-facing computer vision and agentic AI pipelines for transmission-tower inspection work with Energy Queensland. Built a ResNet18 conductor-material classifier (89.4% accuracy, 89.5% weighted F1 on a 104-sample test set) and developed an LLM-controlled SAM3 segmentation workflow, where the LLM reviewed tower images, chose object prompts and confidence thresholds, and invoked SAM3 as a segmentation tool to produce annotation masks. The workflow reduced manual labelling effort by 50–70% and used Claude Haiku via AWS Bedrock for data-sovereign LLM access.
@@ -46,9 +62,9 @@ My main interests are **computer vision, agentic AI, training machine learning m
 - 🎓 **Bachelor of Computer Science, Data Science & AI @ Swinburne University of Technology**  
   Graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
 
-- 🌱 Currently going deeper on AWS, MLOps, model serving, system design, software engineering fundamentals, inference APIs, and production AI systems - **the engineering skills that stay valuable even as AI makes coding faster**.
+- 🌱 Currently going deeper on **AI engineering, data science, AWS, MLOps, model serving, system design, and production AI systems**. I am building the mix of **data, software, and deployment skills** needed to turn AI ideas into real products.
 
-- 📫 **nathanvu.ds@gmail.com**
+- 📩 **nathanvu.ds@gmail.com**
 
 ---
 
