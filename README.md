@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanvu-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:nathanvutexting@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:nathanvu.ds@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/NathanVuSwinburne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
@@ -29,7 +29,7 @@
 
 I build **applied AI systems that run in production**, with 5 months of hands-on ML Engineer Intern experience @ Silverpond.
 
-My experience might sound pretty technical now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
+My experience might sound pretty techy now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
 
 I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders.
 
@@ -58,7 +58,10 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 
 - 👥 **Led a 6-person capstone team**  
   Built a predictive-maintenance digital twin where users can query machine health in natural language and run what-if simulations. Diagnosed a failing time-series model with high recall and low precision, then helped drive the system toward a **92% F1** result.
-
+  
+- ⚡ **Top 10/32 teams @ Watt The Hack: Energy & AI**  
+  Built SolarCycle AI in an 8-hour hackathon: a live failure-prediction and recovery-routing product for Victorian solar infrastructure. Combined data science, AI, product thinking, and rapid deployment under time pressure.
+  
 - 🎓 **Bachelor of Computer Science, Data Science & AI @ Swinburne University of Technology**  
   Graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
 
