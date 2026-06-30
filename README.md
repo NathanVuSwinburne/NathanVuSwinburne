@@ -50,7 +50,7 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 ### ⭐ Working Experience 
 
 - 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)**  
-  Built **agentic AI and computer vision pipelines** for transmission-tower inspection work with Energy Queensland. Developed an **LLM-controlled SAM3 segmentation workflow**, where the LLM reviewed tower images, selected object prompts and confidence thresholds, and called SAM3 as a segmentation tool to generate annotation masks. The workflow reduced manual labelling effort by **50–70%**. I also built a ResNet18 conductor-material classifier, achieving **89.4% accuracy** and **89.5% weighted F1** on a 104-sample test set, and used Claude Haiku via **AWS Bedrock** + experimented with locally hosted Gemma4 for data-sovereign LLM access.
+  Built **agentic AI and computer vision pipelines** for transmission-tower inspection work with Energy Queensland. Developed an **LLM-controlled SAM3 segmentation workflow**, where the LLM reviewed tower images, selected object prompts and confidence thresholds, and called SAM3 as a segmentation tool to generate annotation masks. The workflow reduced manual labelling effort by **50% to 70%**. I also built a ResNet18 conductor-material classifier, achieving **89.4% accuracy** and **89.5% weighted F1** on a 104-sample test set, and used Claude Haiku via **AWS Bedrock** + experimented with locally hosted Gemma4 for data-sovereign LLM access.
   > 💬 Supervisor feedback and internship highlights are available on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/).
 
 - 📊 **Data analytics foundation**  
@@ -183,6 +183,17 @@ LangGraph agents + hybrid RAG mapping security logs to MITRE ATT&CK techniques.
   <tr>
     <td width="50%" valign="top">
 
+#### 🌸 [MP FloraStudio](https://github.com/NathanVuSwinburne/mp-florastudio)
+A cute, game-like plant care companion and no-code garden design studio, inspired by helping my mum keep her garden happy.
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `React RND`
+
+![Phase](https://img.shields.io/badge/Phase%201-Frontend%20demo-ec4899?style=flat-square)
+![Style](https://img.shields.io/badge/Style-Cosy%20game-84cc16?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
+
 #### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
 YOLOv8 detection + segmentation on 572 drone images for automated tower inspection.
 
@@ -192,7 +203,6 @@ YOLOv8 detection + segmentation on 572 drone images for automated tower inspecti
 ![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
 
 </td>
-    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td colspan="2"><strong>Data Analytics</strong></td>
