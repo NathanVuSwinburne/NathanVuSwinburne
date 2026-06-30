@@ -130,6 +130,9 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 
 <table>
   <tr>
+    <td colspan="2"><strong>AI/ML Engineering + Data Science</strong></td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 #### 🧠 [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo)
@@ -143,6 +146,19 @@ No-code platform - engineers query machine health in natural language and run wh
 </td>
     <td width="50%" valign="top">
 
+#### ⚡ [SolarCycle AI @ Watt The Hack](https://github.com/NathanVuSwinburne/Watt-The-Hack-Hackathon)
+8-hour energy-AI hackathon - built & deployed a live failure-prediction + recovery-routing product for Victorian solar infrastructure.
+
+`Python` · `scikit-learn` · `Next.js` · `Leaflet`
+
+![Rank](https://img.shields.io/badge/Top%2010-of%2032%20teams-2ea44f?style=flat-square)
+![Shipped](https://img.shields.io/badge/Built%20%2B%20deployed-8%20hours-FF9900?style=flat-square)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 #### 🚦 [Traffic Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 Deep-learning forecasting on real SCATS data fused with A* / UCS routing. **Live on AWS EC2.**
 
@@ -150,19 +166,6 @@ Deep-learning forecasting on real SCATS data fused with A* / UCS routing. **Live
 
 ![R2](https://img.shields.io/badge/R%C2%B2-0.962-2ea44f?style=flat-square)
 ![Deployed](https://img.shields.io/badge/AWS-Live-FF9900?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-YOLOv8 detection + segmentation on 572 drone images for automated tower inspection.
-
-`YOLOv8` · `Python` · `Roboflow` · `Streamlit`
-
-![mAP](https://img.shields.io/badge/mAP50-0.989-2ea44f?style=flat-square)
-![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
 
 </td>
     <td width="50%" valign="top">
@@ -180,24 +183,30 @@ LangGraph agents + hybrid RAG mapping security logs to MITRE ATT&CK techniques.
   <tr>
     <td width="50%" valign="top">
 
+#### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
+YOLOv8 detection + segmentation on 572 drone images for automated tower inspection.
+
+`YOLOv8` · `Python` · `Roboflow` · `Streamlit`
+
+![mAP](https://img.shields.io/badge/mAP50-0.989-2ea44f?style=flat-square)
+![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
+
+</td>
+    <td width="50%" valign="top"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Data Analytics</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
 #### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
-Power BI & Tableau dashboards turning raw HR, sales, and procurement data into executive decisions — star/snowflake modelling, DAX, drill-throughs.
+Power BI & Tableau dashboards turning raw HR, sales, and procurement data into executive decisions: star/snowflake modelling, DAX, drill-throughs.
 
 `Power BI` · `Tableau` · `DAX` · `Power Query` · `SQL`
 
 ![Attrition](https://img.shields.io/badge/HR%20attrition-16.1%25%20found-6e9fef?style=flat-square)
 ![Modelling](https://img.shields.io/badge/Star%20%26%20Snowflake-schemas-F2C811?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
-
-#### ⚡ [SolarCycle AI @ Watt The Hack](https://github.com/NathanVuSwinburne/Watt-The-Hack-Hackathon)
-8-hour energy-AI hackathon - built & deployed a live failure-prediction + recovery-routing product for Victorian solar infrastructure.
-
-`Python` · `scikit-learn` · `Next.js` · `Leaflet`
-
-![Rank](https://img.shields.io/badge/Top%2010-of%2032%20teams-2ea44f?style=flat-square)
-![Shipped](https://img.shields.io/badge/Built%20%2B%20deployed-8%20hours-FF9900?style=flat-square)
 
 </td>
   </tr>
