@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED HEADER ===== -->
-<a href="https://github.com/NathanVuSwinburne">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Nathan%20Vu&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Science%20%26%20AI%20Engineering%20%C2%B7%20Analytics%20to%20Production%20ML%20Systems&amp;descAlignY=58&amp;descSize=18" alt="header"/>
-</a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nathan%20Vu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designing%20data-driven%20AI%20systems%20from%20insight%20to%20deployment&descAlignY=58&descSize=18" alt="Nathan Vu GitHub Header"/>
+</p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
