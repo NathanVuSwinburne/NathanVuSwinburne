@@ -126,7 +126,7 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Featured Projects
 
 <table>
   <tr>
