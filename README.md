@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <a href="https://github.com/NathanVuSwinburne">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Vu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20building%20systems%20that%20actually%20ship&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Vu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Analytics%20%C2%B7%20ML%20%2F%20AI%20Engineer%20%C2%B7%20building%20data-driven%20AI%20systems&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- ===== TYPING ANIMATION ===== -->
