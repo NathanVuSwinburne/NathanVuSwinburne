@@ -224,23 +224,11 @@ Power BI & Tableau dashboards turning raw HR, sales, and procurement data into e
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NathanVuSwinburne&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6e9fef&icon_color=6e9fef&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanVuSwinburne&layout=compact&langs_count=8&hide_border=true&title_color=6e9fef&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NathanVuSwinburne&hide_border=true&background=0d1117&stroke=6e9fef&ring=6e9fef&fire=ff9900&currStreakLabel=6e9fef&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/From-Data%20Analytics%20%26%20Communication-6e9fef?style=for-the-badge" alt="data analytics and communication"/>
   <img src="https://img.shields.io/badge/To-ML%20Engineering%20%26%20AI%20Development-2ea44f?style=for-the-badge" alt="ml engineering and ai development"/>
   <img src="https://img.shields.io/badge/Focused%20On-CV%20%7C%20Agentic%20AI%20%7C%20ML%20Training-ff9900?style=for-the-badge" alt="computer vision agentic ai ml training"/>
 </p>
----
 
 ### 🐍 Contribution Activity
 
