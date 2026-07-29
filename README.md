@@ -140,7 +140,7 @@ Built Syncnapse, an organisational AI memory system that helps companies preserv
   <tr>
     <td width="50%" valign="top">
 
-#### 🧠 [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo)
+#### ⚙ [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo)
 No-code platform - engineers query machine health in natural language and run what-if simulations. **Led a 6-person team.**
 
 `FastAPI` · `LangGraph` · `OpenAI Agents SDK` · `FAISS` · `XGBoost` · `Docker`
