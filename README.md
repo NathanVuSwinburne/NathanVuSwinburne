@@ -29,6 +29,8 @@
 
 I build **applied AI systems that run in production**, with 5 months of hands-on ML Engineer Intern experience @ Silverpond.
 
+🏆 **First Prize @ [Agentic AI Build Week 2026](https://x.com/genaifund_ai/status/2076603484477047223?s=20)** · ex-ML Engineer Intern @ Silverpond · Final-year Computer Science (Data Science & AI) student @ Swinburne.
+
 My experience might sound pretty techy now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
 
 I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders.
@@ -55,6 +57,9 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 
 - 📊 **Data analytics foundation**  
   Built experience in data cleaning, dashboarding, stakeholder communication, and translating messy real-world data into business decisions. I now apply that background to ML and AI systems, especially when explaining model behaviour, evaluation results, and trade-offs to different audiences.
+
+- 🏆 First Prize - Agentic AI Build Week 2026 | Syncnapse
+Built Syncnapse, an organisational AI memory system that helps companies preserve decisions, context, and knowledge for both employees and AI agents. My main contribution was designing the memory architecture and processing pipeline, including a fast path for immediate retrieval during live interactions and a deeper asynchronous path for processing, consolidation, and long-term memory creation. The system enables AI agents to retrieve persistent organisational context and use that knowledge across conversations and workflows.
 
 - 👥 **Led a 6-person capstone team**  
   Built a predictive-maintenance digital twin where users can query machine health in natural language and run what-if simulations. Diagnosed a failing time-series model with high recall and low precision, then helped drive the system toward a **92% F1** result.
@@ -146,18 +151,16 @@ No-code platform - engineers query machine health in natural language and run wh
 </td>
     <td width="50%" valign="top">
 
-#### ⚡ [SolarCycle AI @ Watt The Hack](https://github.com/NathanVuSwinburne/Watt-The-Hack-Hackathon)
-8-hour energy-AI hackathon - built & deployed a live failure-prediction + recovery-routing product for Victorian solar infrastructure.
+#### 🧠 [Syncnapse](https://syncnapse.up.railway.app/)
+🏆 First Prize @ Agentic AI Build Week 2026 - built an organisational memory platform that gives AI agents persistent company context across meetings and workflows. **Co-founder.**
+`TypeScript` · `Hono` · `PostgreSQL` · `pgvector` · `Docker` · `Railway`
 
-`Python` · `scikit-learn` · `Next.js` · `Leaflet`
+![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
 
-![Rank](https://img.shields.io/badge/Top%2010-of%2032%20teams-2ea44f?style=flat-square)
-![Shipped](https://img.shields.io/badge/Built%20%2B%20deployed-8%20hours-FF9900?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Co--founder-6e9fef?style=flat-square)
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td></tr><tr><td width="50%" valign="top">
+
 
 #### 🚦 [Traffic Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 Deep-learning forecasting on real SCATS data fused with A* / UCS routing. **Live on AWS EC2.**
