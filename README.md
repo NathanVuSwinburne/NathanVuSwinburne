@@ -153,6 +153,8 @@ No-code platform - engineers query machine health in natural language and run wh
 
 #### 🧠 [Syncnapse](https://syncnapse.up.railway.app/)
 🏆 First Prize @ Agentic AI Build Week 2026 - built an organisational memory platform that gives AI agents persistent company context across meetings and workflows. **Co-founder.**
+
+
 `TypeScript` · `Hono` · `PostgreSQL` · `pgvector` · `Docker` · `Railway`
 
 ![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
