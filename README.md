@@ -158,7 +158,6 @@ No-code platform - engineers query machine health in natural language and run wh
 `TypeScript` · `Hono` · `PostgreSQL` · `pgvector` · `Docker` · `Railway`
 
 ![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
-
 ![Role](https://img.shields.io/badge/Role-Co--founder-6e9fef?style=flat-square)
 
 </td></tr><tr><td width="50%" valign="top">
