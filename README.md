@@ -6,13 +6,13 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/NathanVuSwinburne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E9FEF&center=true&vCenter=true&width=720&lines=LLM+agents+%C2%B7+predictive+ML+%C2%B7+computer+vision;ex-ML+Engineer+Intern+%40+Silverpond;Final-year+CS+(Data+Science+%26+AI)+%40+Swinburne;Open+to+junior+AI+%2F+ML+Engineer+%26+Data+Scientist+roles" alt="typing-intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E9FEF&center=true&vCenter=true&width=720&lines=LLM+agents+%C2%B7+predictive+ML+%C2%B7+computer+vision;AI+Engineer+%40+Eleno+%C2%B7+Co-founder+%40+Syncnapse;Final-year+CS+(Data+Science+%26+AI)+%40+Swinburne;Part+engineer%2C+part+consultant" alt="typing-intro"/>
   </a>
 </p>
 
 <!-- ===== STATUS BADGES ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Engineer%20roles-2ea44f?style=for-the-badge" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Now-AI%20Engineer%20%40%20Eleno-2ea44f?style=for-the-badge" alt="current role"/>
   <img src="https://img.shields.io/badge/Based%20in-Melbourne%2C%20AU-1f6feb?style=for-the-badge" alt="location"/>
   <img src="https://komarev.com/ghpvc/?username=NathanVuSwinburne&style=for-the-badge&color=6e9fef&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
@@ -27,9 +27,9 @@
 
 ### 👋 About me
 
-I build **applied AI systems that run in production**, with 5 months of hands-on ML Engineer Intern experience @ Silverpond.
+I build **applied AI systems that run in production**. I'm currently an AI Engineer (part-time contract) @ Eleno, a fintech startup, and co-founder of Syncnapse. Part engineer, part consultant.
 
-🏆 **First Prize @ [Agentic AI Build Week 2026](https://x.com/genaifund_ai/status/2076603484477047223?s=20)** · ex-ML Engineer Intern @ Silverpond · Final-year Computer Science (Data Science & AI) student @ Swinburne.
+🏆 **First Prize @ [Agentic AI Build Week 2026](https://x.com/genaifund_ai/status/2076603484477047223?s=20)** · AI Engineer @ Eleno · Co-founder @ Syncnapse · ex-ML Engineer Intern @ Silverpond · Final-year Computer Science (Data Science & AI) student @ Swinburne.
 
 My experience might sound pretty techy now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
 
@@ -51,15 +51,18 @@ That mix of **AI engineering, data thinking, communication, and product mindset*
 
 ### ⭐ Working Experience 
 
-- 🛰️ **ex-ML Engineer Intern @ [Silverpond](https://silverpond.com.au)**  
+- 📈 **AI Engineer (part-time contract) @ Eleno** · Sep 2026–present  
+  Eleno is a fintech startup; the work is confidential, so details here stay general. Ramped up on a new domain, private credit for property, and was contributing within 3 weeks. Built an **investor relations agent proof of concept** (Next.js, Convex, DeepSeek) with tool calling and human approval workflows. Designed the data model and **benchmark** (test cases, ground truth, scoring) to evaluate an internal AI agent on deal workflows, and ran evaluations on edge cases and failure patterns to compare agent versions and guide architecture decisions.
+
+- 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://syncnapse.up.railway.app/)** · Jul 2026–present  
+  Won **First Prize, Founder Mode Track, at GenAI Fund's Agentic AI Build Week 2026** (400+ teams, 3,000+ builders). Built Syncnapse, an organisational AI memory system that helps companies preserve decisions, context, and knowledge for both employees and AI agents. My main contribution was designing the memory architecture and processing pipeline, including a fast path for immediate retrieval during live interactions and a deeper asynchronous path for processing, consolidation, and long-term memory creation. The system enables AI agents to retrieve persistent organisational context and use that knowledge across conversations and workflows.
+
+- 🛰️ **ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** · Feb–Jun 2026  
   Built **agentic AI and computer vision pipelines** for transmission-tower inspection work with Energy Queensland. Developed an **LLM-controlled SAM3 segmentation workflow**, where the LLM reviewed tower images, selected object prompts and confidence thresholds, and called SAM3 as a segmentation tool to generate annotation masks. The workflow reduced manual labelling effort by **50% to 70%**. I also built a ResNet18 conductor-material classifier, achieving **89.4% accuracy** and **89.5% weighted F1** on a 104-sample test set, and used Claude Haiku via **AWS Bedrock** + experimented with locally hosted Gemma4 for data-sovereign LLM access.
   > 💬 Supervisor feedback and internship highlights are available on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/).
 
-- 📊 **Data analytics foundation**  
+- 📊 **Data Analyst Intern @ SW Education** · Mar–Aug 2024  
   Built experience in data cleaning, dashboarding, stakeholder communication, and translating messy real-world data into business decisions. I now apply that background to ML and AI systems, especially when explaining model behaviour, evaluation results, and trade-offs to different audiences.
-
-- 🏆 First Prize - Agentic AI Build Week 2026 | Syncnapse
-Built Syncnapse, an organisational AI memory system that helps companies preserve decisions, context, and knowledge for both employees and AI agents. My main contribution was designing the memory architecture and processing pipeline, including a fast path for immediate retrieval during live interactions and a deeper asynchronous path for processing, consolidation, and long-term memory creation. The system enables AI agents to retrieve persistent organisational context and use that knowledge across conversations and workflows.
 
 - 👥 **Led a 6-person capstone team**  
   Built a predictive-maintenance digital twin where users can query machine health in natural language and run what-if simulations. Diagnosed a failing time-series model with high recall and low precision, then helped drive the system toward a **92% F1** result.
@@ -78,7 +81,7 @@ Built Syncnapse, an organisational AI memory system that helps companies preserv
 
 ### 🛠️ Tech Stack
 
-> 💡 **Each badge links to a project where I actually used it** - click through.
+> 💡 **Each badge links to a project where I actually used it** - click through. (Convex and DeepSeek are from confidential work at Eleno, so they have no link.)
 
 **Languages**
 
@@ -102,6 +105,7 @@ Built Syncnapse, an organisational AI memory system that helps companies preserv
 [![OpenAI](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
 [![FAISS](https://img.shields.io/badge/FAISS%20%2F%20RAG-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB%20%2B%20BM25-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 **Backend / MLOps / Cloud**
 
@@ -109,6 +113,7 @@ Built Syncnapse, an organisational AI memory system that helps companies preserv
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 
