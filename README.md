@@ -1,257 +1,42 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nathan%20Vu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designing%20data-driven%20AI%20systems%20from%20insight%20to%20deployment&descAlignY=58&descSize=18" alt="Nathan Vu GitHub Header"/>
-</p>
-
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <a href="https://github.com/NathanVuSwinburne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E9FEF&center=true&vCenter=true&width=720&lines=LLM+agents+%C2%B7+predictive+ML+%C2%B7+computer+vision;AI+Engineer+%40+Eleno+%C2%B7+Co-founder+%40+Syncnapse;Final-year+CS+(Data+Science+%26+AI)+%40+Swinburne;Part+engineer%2C+part+consultant" alt="typing-intro"/>
-  </a>
-</p>
-
-<!-- ===== STATUS BADGES ===== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Now-AI%20Engineer%20%40%20Eleno-2ea44f?style=for-the-badge" alt="current role"/>
-  <img src="https://img.shields.io/badge/Based%20in-Melbourne%2C%20AU-1f6feb?style=for-the-badge" alt="location"/>
-  <img src="https://komarev.com/ghpvc/?username=NathanVuSwinburne&style=for-the-badge&color=6e9fef&label=PROFILE+VIEWS" alt="profile views"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff7a2f&height=180&section=header&text=Nathan%20Vu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Part%20engineer%2C%20part%20consultant&descAlignY=58&descSize=18" alt="Nathan Vu"/>
 
 <p align="center">
+  <a href="https://nathanvu.vercel.app"><img src="https://img.shields.io/badge/Website-nathanvu.vercel.app-ff7a2f?style=for-the-badge" alt="website"/></a>
   <a href="https://www.linkedin.com/in/nathanvu-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:nathanvu.ds@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/NathanVuSwinburne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
----
+AI engineer in Melbourne. I like learning how a business works, then building AI people can trust.
 
-### 👋 About me
+**Now:** AI Engineer @ Eleno (fintech) · Co-founder @ Syncnapse · Final-year CS (Data Science & AI) @ Swinburne
 
-**Part engineer, part consultant.** I build AI products with clients and make sure they understand and trust what gets built. I'm currently an AI Engineer (part-time contract) @ Eleno, a fintech startup, and co-founder of Syncnapse. I learn new domains fast (private credit took me 3 weeks) and use coding agents to ship working prototypes in short cycles. 🌐 [nathanvu.vercel.app](https://nathanvu.vercel.app)
+### What I bring
 
-🏆 **First Prize @ [Agentic AI Build Week 2026](https://x.com/genaifund_ai/status/2076603484477047223?s=20)** · AI Engineer @ Eleno · Co-founder @ Syncnapse · ex-ML Engineer Intern @ Silverpond · Final-year Computer Science (Data Science & AI) student @ Swinburne.
+| | |
+|---|---|
+| **3 weeks** | New to private credit, contributing to product and architecture decisions |
+| **5/6 HD** | Uni team projects I led. I set the direction and was the client contact |
+| **Exemplary** | My Silverpond supervisor's rating for communication ([feedback](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/)) |
+| **50-70%** | Less manual labelling from the agent I owned at Silverpond, on real client data |
 
-How I got here: Data Analyst → ML Engineer → AI Engineer. Each step taught me something new: data taught me to read the business, ML taught me rigour, and client work brought it together. 😁
+### Hackathons
 
-I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders.
+- 🏆 **1st of 400+ teams**, Agentic AI Build Week 2026 → [Syncnapse](https://syncnapse-landing.vercel.app/), memory for AI agents. Now a startup I co-founded
+- ⭐ **Top 10 of 156 people**, Forward: AI in Business → [Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), built in 24 hours ([demo](https://youtu.be/SMGKFOWfzNc)). It led to my AI engineer contract
+- ⭐ **Top 10 of 32 teams**, Watt The Hack → [SolarCycle](https://solarcycle.we-maid-ai.space/), solar failure prediction built in 8 hours
 
-Now, I bring that same communication and problem-solving mindset into **ML engineering, AI engineering, AI development, and data science**.
+### Projects
 
-### 🤔 Why me?
+- ⚙️ [Predictive maintenance digital twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo): led a team of six. An AI agent that diagnoses machines and forecasts failures
+- 📈 [Data and business analytics](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio): Power BI and Tableau dashboards with recommendations
+- 🛡️ [Multi-agent cybersecurity assistant](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity): AI agents that map system logs to known attack techniques
+- 🚦 [Traffic prediction and route guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area): deep learning forecasts feeding route search
 
-In today’s AI world, technical skills alone are not enough.
+### Stack
 
-AI can already do a lot of the heavy lifting: writing code, generating ideas, analysing data, and speeding up development. But humans still need to **understand the problem, communicate with people, question the output, monitor the system, explore better solutions, and turn technology into something useful**.
+`Python` `TypeScript` `SQL` `PyTorch` `OpenAI Agents SDK` `LangGraph` `FastAPI` `Next.js` `PostgreSQL` `Docker` `AWS` `Power BI`
 
-That is where I believe I fit well.
-
-I enjoy working across both sides: the technical side of building AI systems, and the human side of understanding what users, teams, and businesses actually need.
-
-That mix of **AI engineering, data thinking, communication, and product mindset** is what I bring.
-
-### ⭐ Working Experience 
-
-- 📈 **AI Engineer (part-time contract) @ Eleno** · Sep 2026–present  
-  Eleno is a fintech startup; the work is confidential, so details here stay general. Ramped up on a new domain, private credit for property, and was contributing within 3 weeks. Built an **investor relations agent proof of concept** (Next.js, Convex, DeepSeek) with tool calling and human approval workflows. Designed the data model and **benchmark** (test cases, ground truth, scoring) to evaluate an internal AI agent on deal workflows, and ran evaluations on edge cases and failure patterns to compare agent versions and guide architecture decisions.
-
-- 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://syncnapse.up.railway.app/)** · Jul 2026–present  
-  Won **First Prize, Founder Mode Track, at GenAI Fund's Agentic AI Build Week 2026** (400+ teams, 3,000+ builders). Built Syncnapse, an organisational AI memory system that helps companies preserve decisions, context, and knowledge for both employees and AI agents. My main contribution was designing the memory architecture and processing pipeline, including a fast path for immediate retrieval during live interactions and a deeper asynchronous path for processing, consolidation, and long-term memory creation. The system enables AI agents to retrieve persistent organisational context and use that knowledge across conversations and workflows.
-
-- 🛰️ **ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** · Feb–Jun 2026  
-  Built **agentic AI and computer vision pipelines** for transmission-tower inspection work with Energy Queensland. Developed an **LLM-controlled SAM3 segmentation workflow**, where the LLM reviewed tower images, selected object prompts and confidence thresholds, and called SAM3 as a segmentation tool to generate annotation masks. The workflow reduced manual labelling effort by **50% to 70%**. I also built a ResNet18 conductor-material classifier, achieving **89.4% accuracy** and **89.5% weighted F1** on a 104-sample test set, and used Claude Haiku via **AWS Bedrock** + experimented with locally hosted Gemma4 for data-sovereign LLM access.
-  > 💬 Supervisor feedback and internship highlights are available on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/).
-
-- 📊 **Data Analyst Intern @ SW Education** · Mar–Aug 2024  
-  Built experience in data cleaning, dashboarding, stakeholder communication, and translating messy real-world data into business decisions. I now apply that background to ML and AI systems, especially when explaining model behaviour, evaluation results, and trade-offs to different audiences.
-
-- 👥 **Led a 6-person capstone team**  
-  Built a predictive-maintenance digital twin where users can query machine health in natural language and run what-if simulations. Diagnosed a failing time-series model with high recall and low precision, then helped drive the system toward a **92% F1** result.
-  
-- ⚡ **Top 10/32 teams @ Watt The Hack: Energy & AI**  
-  Built SolarCycle AI in an 8-hour hackathon: a live failure-prediction and recovery-routing product for Victorian solar infrastructure. Combined data science, AI, product thinking, and rapid deployment under time pressure.
-  
-- 🎓 **Bachelor of Computer Science, Data Science & AI @ Swinburne University of Technology**  
-  Graduating Nov 2026 · **GPA 3.56/4** · Swinburne International Excellence Scholarship · IELTS 8.0
-
-- 🌱 Currently going deeper on **AI engineering, data science, AWS, MLOps, model serving, system design, and production AI systems**. I am building the mix of **data, software, and deployment skills** needed to turn AI ideas into real products.
-
-- 📩 **nathanvu.ds@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-> 💡 **Each badge links to a project where I actually used it** - click through. (Convex and DeepSeek are from confidential work at Eleno, so they have no link.)
-
-**Languages**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
-
-**AI / ML & Computer Vision**
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-
-**Agentic AI / LLMs**
-
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![OpenAI](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![FAISS](https://img.shields.io/badge/FAISS%20%2F%20RAG-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB%20%2B%20BM25-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-
-**Backend / MLOps / Cloud**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-
-**Data Science & Analytics**
-
-[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/NathanVuSwinburne/procurement-analytics-dashboard-tableau)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-
-> EDA · temporal feature engineering · time-series forecasting · model validation & cross-validation · evaluation (precision / recall / F1 / mAP / RMSE / R²) · star & snowflake data modelling · DAX / Power Query · KPI dashboards
-
-**Frontend**
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/NathanVuSwinburne/Predictive-maintenance-digital-twin-simulator)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-
----
-
-### 💻 Featured Projects
-
-<table>
-  <tr>
-    <td colspan="2"><strong>AI/ML Engineering + Data Science</strong></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### ⚙ [Predictive Maintenance Digital Twin](https://github.com/NathanVuSwinburne/predictive-maintenance-digital-twin-demo)
-No-code platform - engineers query machine health in natural language and run what-if simulations. **Led a 6-person team.**
-
-`FastAPI` · `LangGraph` · `OpenAI Agents SDK` · `FAISS` · `XGBoost` · `Docker`
-
-![F1](https://img.shields.io/badge/Failure%20F1-92%25-2ea44f?style=flat-square)
-![Multi-agent](https://img.shields.io/badge/Multi--agent-RAG%20%2B%20SQL-6e9fef?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🧠 [Syncnapse](https://syncnapse.up.railway.app/)
-🏆 First Prize @ Agentic AI Build Week 2026 - built an organisational memory platform that gives AI agents persistent company context across meetings and workflows. **Co-founder.**
-
-
-`TypeScript` · `Hono` · `PostgreSQL` · `pgvector` · `Docker` · `Railway`
-
-![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
-![Role](https://img.shields.io/badge/Role-Co--founder-6e9fef?style=flat-square)
-
-</td></tr><tr><td width="50%" valign="top">
-
-
-#### 🚦 [Traffic Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
-Deep-learning forecasting on real SCATS data fused with A* / UCS routing. **Live on AWS EC2.**
-
-`TensorFlow` · `CNN-BiGRU` · `FastAPI` · `Next.js` · `AWS`
-
-![R2](https://img.shields.io/badge/R%C2%B2-0.962-2ea44f?style=flat-square)
-![Deployed](https://img.shields.io/badge/AWS-Live-FF9900?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🛡️ [LLM Multi-Agent Cybersecurity](https://github.com/NathanVuSwinburne/agentic-ai-cybersecurity)
-LangGraph agents + hybrid RAG mapping security logs to MITRE ATT&CK techniques.
-
-`LangGraph` · `ChromaDB` · `BM25` · `Streamlit`
-
-![Eval](https://img.shields.io/badge/Effectiveness-61--68%25-6e9fef?style=flat-square)
-![Retrieval](https://img.shields.io/badge/Hybrid-RAG-412991?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🌸 [MP FloraStudio](https://github.com/NathanVuSwinburne/mp-florastudio)
-A cute, game-like plant care companion and no-code garden design studio, inspired by helping my mum keep her garden happy.
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `React RND`
-
-![Phase](https://img.shields.io/badge/Phase%201-Frontend%20demo-ec4899?style=flat-square)
-![Style](https://img.shields.io/badge/Style-Cosy%20game-84cc16?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-YOLOv8 detection + segmentation on 572 drone images for automated tower inspection.
-
-`YOLOv8` · `Python` · `Roboflow` · `Streamlit`
-
-![mAP](https://img.shields.io/badge/mAP50-0.989-2ea44f?style=flat-square)
-![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Data Analytics</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-#### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
-Power BI & Tableau dashboards turning raw HR, sales, and procurement data into executive decisions: star/snowflake modelling, DAX, drill-throughs.
-
-`Power BI` · `Tableau` · `DAX` · `Power Query` · `SQL`
-
-![Attrition](https://img.shields.io/badge/HR%20attrition-16.1%25%20found-6e9fef?style=flat-square)
-![Modelling](https://img.shields.io/badge/Star%20%26%20Snowflake-schemas-F2C811?style=flat-square)
-
-</td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/From-Data%20Analytics%20%26%20Communication-6e9fef?style=for-the-badge" alt="data analytics and communication"/>
-  <img src="https://img.shields.io/badge/To-ML%20Engineering%20%26%20AI%20Development-2ea44f?style=for-the-badge" alt="ml engineering and ai development"/>
-  <img src="https://img.shields.io/badge/Focused%20On-CV%20%7C%20Agentic%20AI%20%7C%20ML%20Training-ff9900?style=for-the-badge" alt="computer vision agentic ai ml training"/>
-</p>
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanVuSwinburne/NathanVuSwinburne/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanVuSwinburne/NathanVuSwinburne/output/github-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/NathanVuSwinburne/NathanVuSwinburne/output/github-snake.svg"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanVuSwinburne&bg_color=0d1117&color=6e9fef&line=6e9fef&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</p>
-
-<!-- ===== FOOTER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanVuSwinburne/NathanVuSwinburne/output/github-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/NathanVuSwinburne/NathanVuSwinburne/output/github-snake.svg"/>
+</picture>
