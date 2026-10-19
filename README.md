@@ -138,7 +138,16 @@ LangGraph agents map security logs to MITRE ATT&CK techniques.
 </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+
+#### ☀️ [SolarCycle AI](https://solarcycle.we-maid-ai.space/)
+Live ML product that predicts which solar assets fail next and plans their recovery. Built in 8 hours.
+
+![Award](https://img.shields.io/badge/Watt%20The%20Hack-Top%2010%2F32-2ea44f?style=flat-square)
+![Speed](https://img.shields.io/badge/Built%20in-8%20hours-FF9900?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
 
 #### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
 Power BI and Tableau dashboards for HR, sales and procurement decisions.
