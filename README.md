@@ -118,7 +118,29 @@ Organisational memory for AI agents. 🏆 1st of 400+ teams. **Co-founder.**
 ![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
 ![Stack](https://img.shields.io/badge/TypeScript-pgvector-6e9fef?style=flat-square)
 
-</td></tr><tr><td width="50%" valign="top">
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🚗 [Trustlane](https://trustlane.house-of-imaginaries.com/#pilot)
+AI warranty coordinator for EV dealers and car makers. My idea; I led the team. Led to my AI engineer contract. [Demo](https://youtu.be/SMGKFOWfzNc)
+
+![Award](https://img.shields.io/badge/Forward%20AI%20Hackathon-Top%2010%2F31-2ea44f?style=flat-square)
+![Speed](https://img.shields.io/badge/Built%20in-24%20hours-FF9900?style=flat-square)
+
+</td>
+    <td width="50%" valign="top">
+
+#### ☀️ [SolarCycle AI](https://solarcycle.we-maid-ai.space/)
+Live ML product that predicts which solar assets fail next and plans their recovery. Built in 8 hours.
+
+![Award](https://img.shields.io/badge/Watt%20The%20Hack-Top%2010%2F32-2ea44f?style=flat-square)
+![Speed](https://img.shields.io/badge/Built%20in-8%20hours-FF9900?style=flat-square)
+
+</td>
+  </tr>
+  <tr><td width="50%" valign="top">
 
 #### 🚦 [Traffic Prediction & Route Guidance](https://github.com/NathanVuSwinburne/Google-Maps-Inspired-Traffic-volume-based-Routing-Guidance-System-for-Boroondara-Area)
 Deep learning traffic forecasts on real SCATS data, feeding A* routing. **Live on AWS.**
@@ -138,16 +160,7 @@ LangGraph agents map security logs to MITRE ATT&CK techniques.
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-#### ☀️ [SolarCycle AI](https://solarcycle.we-maid-ai.space/)
-Live ML product that predicts which solar assets fail next and plans their recovery. Built in 8 hours.
-
-![Award](https://img.shields.io/badge/Watt%20The%20Hack-Top%2010%2F32-2ea44f?style=flat-square)
-![Speed](https://img.shields.io/badge/Built%20in-8%20hours-FF9900?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
 
 #### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
 Power BI and Tableau dashboards for HR, sales and procurement decisions.
