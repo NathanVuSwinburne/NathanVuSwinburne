@@ -27,11 +27,11 @@
 
 ### 👋 About me
 
-I build **applied AI systems that run in production**. I'm currently an AI Engineer (part-time contract) @ Eleno, a fintech startup, and co-founder of Syncnapse. Part engineer, part consultant.
+**Part engineer, part consultant.** I build AI products with clients and make sure they understand and trust what gets built. I'm currently an AI Engineer (part-time contract) @ Eleno, a fintech startup, and co-founder of Syncnapse. I learn new domains fast (private credit took me 3 weeks) and use coding agents to ship working prototypes in short cycles. 🌐 [nathanvu.vercel.app](https://nathanvu.vercel.app)
 
 🏆 **First Prize @ [Agentic AI Build Week 2026](https://x.com/genaifund_ai/status/2076603484477047223?s=20)** · AI Engineer @ Eleno · Co-founder @ Syncnapse · ex-ML Engineer Intern @ Silverpond · Final-year Computer Science (Data Science & AI) student @ Swinburne.
 
-My experience might sound pretty techy now, but before this, I also worked for 6 months as a Data Analyst Intern @ SW Education. 😁
+How I got here: Data Analyst → ML Engineer → AI Engineer. Each step taught me something new: data taught me to read the business, ML taught me rigour, and client work brought it together. 😁
 
 I started from a **data analytics background**, where I learned how to clean messy data, understand business context, communicate insights clearly, and work with non-technical stakeholders.
 
