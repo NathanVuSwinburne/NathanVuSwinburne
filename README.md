@@ -22,7 +22,7 @@ AI engineer in Melbourne. I like learning how a business works, then building AI
 ### Hackathons
 
 - 🏆 **1st of 400+ teams**, Agentic AI Build Week 2026 → [Syncnapse](https://syncnapse-landing.vercel.app/), memory for AI agents. Now a startup I co-founded
-- ⭐ **Top 10 of 156 people**, Forward: AI in Business → [Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), built in 24 hours ([demo](https://youtu.be/SMGKFOWfzNc)). It led to my AI engineer contract
+- ⭐ **Top 10 of 31 teams**, Forward: AI in Business → [Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), built in 24 hours ([demo](https://youtu.be/SMGKFOWfzNc)). It led to my AI engineer contract
 - ⭐ **Top 10 of 32 teams**, Watt The Hack → [SolarCycle](https://solarcycle.we-maid-ai.space/), solar failure prediction built in 8 hours
 
 ### Projects
