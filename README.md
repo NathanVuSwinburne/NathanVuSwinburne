@@ -138,26 +138,6 @@ LangGraph agents map security logs to MITRE ATT&CK techniques.
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-#### 🌸 [MP FloraStudio](https://github.com/NathanVuSwinburne/mp-florastudio)
-A cosy, game-like garden planner, inspired by helping my mum with her garden.
-
-![Phase](https://img.shields.io/badge/Phase%201-Frontend%20demo-ec4899?style=flat-square)
-![Style](https://img.shields.io/badge/Style-Cosy%20game-84cc16?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🏗️ [Structural Defect Detection (CV)](https://github.com/NathanVuSwinburne/Structural-Defect-Detection-AI-for-Structural-Engineering)
-YOLOv8 detection and segmentation on 572 drone images.
-
-![mAP](https://img.shields.io/badge/mAP50-0.989-2ea44f?style=flat-square)
-![Recall](https://img.shields.io/badge/Recall-0.947-6e9fef?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
     <td colspan="2" valign="top">
 
 #### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
