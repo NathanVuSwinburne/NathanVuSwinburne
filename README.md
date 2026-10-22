@@ -35,7 +35,7 @@ AI can write the code. Someone still has to understand the problem, talk to the 
 
 ### ⭐ Working Experience
 
-- 📈 **AI Engineer (contract) @ Eleno** · Sep 2026-now · New to private credit, contributing within 3 weeks. Quick on MVPs and prototypes, careful when reviewing code for production. Small PRs with coding agents, often 10+ merged in a working session.
+- 📈 **AI Engineer (contract) @ Eleno** · Sep 2026-now · Internal AI agents for private credit. Built the eval benchmark the team uses to compare agent versions, and an investor relations agent prototype with human approval. New to the domain, contributing to architecture decisions within **3 weeks**.
 - 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://syncnapse-landing.vercel.app/)** · Jul 2026-now · **1st of 400+ teams** at Agentic AI Build Week 2026. I work on the memory layer that gives AI agents a company's own context.
 - 🛰️ **ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** · Feb-Jun 2026 · An LLM-driven SAM3 labelling agent that cut manual labelling **50-70%** on Energy Queensland data. [Supervisor feedback](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/)
 - 📊 **Data Analyst Intern @ SW Education** · Mar-Aug 2024 · Dashboards and insights for marketing decisions.
