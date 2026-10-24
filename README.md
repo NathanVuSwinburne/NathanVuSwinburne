@@ -36,7 +36,7 @@ AI can write the code. Someone still has to understand the problem, talk to the 
 ### ⭐ Working Experience
 
 - 📈 **AI Engineer (contract) @ Eleno** · Sep 2026-now · Helped build the company's internal AI product for private credit: designed its data model, the eval benchmark the team uses to compare agent versions, and an investor relations agent prototype. New to the domain, contributing to architecture decisions within **3 weeks**.
-- 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://syncnapse-landing.vercel.app/)** · Jul 2026-now · **1st of 400+ teams** at Agentic AI Build Week 2026. I work on the memory layer that gives AI agents a company's own context.
+- 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://www.syncnapse-agents.xyz/)** · Jul 2026-now · **1st of 400+ teams** at Agentic AI Build Week 2026. I work on the memory layer that gives AI agents a company's own context.
 - 🛰️ **ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** · Feb-Jun 2026 · An LLM-driven SAM3 labelling agent that cut manual labelling **50-70%** on Energy Queensland data. [Supervisor feedback](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/)
 - 📊 **Data Analyst Intern @ SW Education** · Mar-Aug 2024 · Dashboards and insights for marketing decisions.
 - ⚡ **Hackathons** · Top 10/31 at Forward: AI in Business ([Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), 24 hours, led to my contract) · Top 10/32 at Watt The Hack ([SolarCycle](https://solarcycle.we-maid-ai.space/), 8 hours)
@@ -112,7 +112,7 @@ Ask machine health questions in plain English and run what-if simulations. **Led
 </td>
     <td width="50%" valign="top">
 
-#### 🧠 [Syncnapse](https://syncnapse-landing.vercel.app/)
+#### 🧠 [Syncnapse](https://www.syncnapse-agents.xyz/)
 Organisational memory for AI agents. 🏆 1st of 400+ teams. **Co-founder.**
 
 ![Award](https://img.shields.io/badge/Agentic%20AI%20Build%20Week-First%20Prize-2ea44f?style=flat-square)
