@@ -39,7 +39,7 @@ AI can write the code. Someone still has to understand the problem, talk to the 
 - 🏆 **Co-founder & Founding AI Engineer @ [Syncnapse](https://www.syncnapse-agents.xyz/)** · Jul 2026-now · **1st of 400+ teams** at Agentic AI Build Week 2026. I work on the memory layer that gives AI agents a company's own context.
 - 🛰️ **ML Engineer Intern @ [Silverpond](https://silverpond.com.au)** · Feb-Jun 2026 · An LLM-driven SAM3 labelling agent that cut manual labelling **50-70%** on Energy Queensland data. [Supervisor feedback](https://www.linkedin.com/feed/update/urn:li:activity:7473614522625257472/)
 - 📊 **Data Analyst Intern @ SW Education** · Mar-Aug 2024 · Dashboards and insights for marketing decisions.
-- ⚡ **Hackathons** · Top 10/31 at Forward: AI in Business ([Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), 24 hours, led to my contract) · Top 10/32 at Watt The Hack ([SolarCycle](https://solarcycle.we-maid-ai.space/), 8 hours)
+- ⚡ **Hackathons** · Top 10/31 at Forward: AI in Business ([Trustlane](https://trustlane.house-of-imaginaries.com/#pilot), 24 hours, led to my contract) · Top 10/32 at Watt The Hack
 - 🎓 **BCompSci (Data Science & AI) @ Swinburne** · Graduating Nov 2026 · Led 6 team projects, 5 earned High Distinction
 
 ---
@@ -132,11 +132,11 @@ AI warranty coordinator for EV dealers and car makers. My idea; I led the team. 
 </td>
     <td width="50%" valign="top">
 
-#### ☀️ [SolarCycle AI](https://solarcycle.we-maid-ai.space/)
-Live ML product that predicts which solar assets fail next and plans their recovery. Built in 8 hours.
+#### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
+Power BI and Tableau dashboards for HR, sales and procurement decisions.
 
-![Award](https://img.shields.io/badge/Watt%20The%20Hack-Top%2010%2F32-2ea44f?style=flat-square)
-![Speed](https://img.shields.io/badge/Built%20in-8%20hours-FF9900?style=flat-square)
+![Attrition](https://img.shields.io/badge/HR%20attrition-16.1%25%20found-6e9fef?style=flat-square)
+![Modelling](https://img.shields.io/badge/Star%20%26%20Snowflake-schemas-F2C811?style=flat-square)
 
 </td>
   </tr>
@@ -156,17 +156,6 @@ LangGraph agents map security logs to MITRE ATT&CK techniques.
 
 ![Eval](https://img.shields.io/badge/Effectiveness-61--68%25-6e9fef?style=flat-square)
 ![Retrieval](https://img.shields.io/badge/Hybrid-RAG-412991?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-#### 📈 [Data & Business Analytics Portfolio](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio)
-Power BI and Tableau dashboards for HR, sales and procurement decisions.
-
-![Attrition](https://img.shields.io/badge/HR%20attrition-16.1%25%20found-6e9fef?style=flat-square)
-![Modelling](https://img.shields.io/badge/Star%20%26%20Snowflake-schemas-F2C811?style=flat-square)
 
 </td>
   </tr>
